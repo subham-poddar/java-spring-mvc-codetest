@@ -5,11 +5,11 @@
 To test how quickly you can pick up a new project and follow requirements, we ask
 candidates to do the following project. You have a choice of web frameworks:
 
-* Spring MVC
 * Spring WebFlux
+* Spring MVC
 
-This repository is the Spring MVC test. If you want to use WebFlux instead, fork
-the WebFlux repository instead: (https://github.com/qudini/java-spring-webflux-codetest)
+This repository is the Spring MVC test. If you want to use Spring WebFlux
+instead, fork this repository instead: (https://github.com/qudini/java-spring-webflux-codetest)
 
 Meet the following requirements:
 
